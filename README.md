@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullahkhidr
-- 👀 I’m interested in design, programming and artificial intelligence
-- 🌱 I’m currently learning Designing applications using flutter
+- 👀 I’m interested in programming and artificial intelligence
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: Abdullahkhidr52@gmail.com
 
