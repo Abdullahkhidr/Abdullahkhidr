@@ -3,7 +3,7 @@
 
 Assiut, Egypt  
 [LinkedIn](https://www.linkedin.com/in/abdullahkhidr) • [GitHub](https://github.com/Abdullahkhidr) • [Portfolio](https://abdullahkhidr.web.app/)  
-**Email:** abdullahkhidr52@gmail.com | **Phone:** +20 112 550 3253
+**Email:** abdullahkhidr.info@gmail.com | **Phone:** +20 112 550 3253
 
 ---
 
