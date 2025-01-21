@@ -1,18 +1,100 @@
-# 💫 About Me:
-I’m currently working on:<br>Building an interactive educational app for third-year secondary students to help them memorize English vocabulary with fun and engaging exercises.<br><br>I’m looking to collaborate on:<br>Mobile app development projects, particularly using Flutter, or any educational tech initiatives that focus on enhancing student learning experiences.<br><br>I’m looking for help with:<br>User experience design improvements for educational apps and finding innovative ways to enhance interactive learning through mobile technology.<br><br>I’m currently learning:<br>Clean architecture in Flutter and ways to implement effective design patterns for scalable and maintainable applications.<br><br>Ask me about:<br>Flutter development, problem-solving in competitive programming, or how to design engaging mobile apps for education.<br><br>Fun fact:<br>I’ve participated in two ECPC competitions and love solving complex problems in my free time!
+# **Abdullah Khidr**
 
+**Email:** [abdullahkhidr.info@gmail.com](mailto:abdullahkhidr.info@gmail.com)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdullahkhidr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullah.khidr.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahkhidr) 
+**Phone:** +20 112 550 3253
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdullahkhidr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhidr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkhidr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Address:** Assiut, Egypt
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**GitHub:** [github.com/Abdullahkhidr](https://github.com/Abdullahkhidr)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**LinkedIn:** [linkedin.com/in/abdullahkhidr](https://www.linkedin.com/in/abdullahkhidr)
+
+**Portfolio:** [abdullahkhidr.web.app](https://abdullahkhidr.web.app/)
+
+---
+
+## **PROFESSIONAL SUMMARY**
+
+Innovative and detail-oriented **Software Developer** with over 3 years of experience in mobile app development. Adept at creating user-centric applications with a strong foundation in **Computer Science** and **Software Engineering** principles. Proficient in **Flutter**, **Dart**, **Java**, and **Kotlin**, with a proven track record of deploying high-quality apps to the **Google Play Store**. Skilled in problem-solving, teamwork, and delivering scalable, maintainable solutions.
+
+---
+
+## **CORE SKILLS**
+
+- **Mobile Development:** Flutter, Dart, Java, Kotlin, cross-platform development, Material Design, Cupertino guidelines.
+- **State Management:** Provider, Bloc, Riverpod.
+- **Architecture & Code Quality:** MVVM, Clean Architecture, performance optimization, maintainable and scalable code.
+- **Backend Integration:** RESTful APIs, Firebase, JSON, local storage (SQLite, Shared Preferences, Hive).
+- **Tools & Collaboration:** Git, GitHub, Agile methodologies, secure coding practices, team collaboration.
+- **Additional Expertise:** Flutter Web & Desktop, custom animations, Firebase integration, Google Play Store deployment.
+
+---
+
+## **PROJECT HIGHLIGHTS**
+
+### **Teams Academy App**
+**Platform:** [Google Play](https://play.google.com/store/apps/details?id=com.teamsacademy.teams_academy), [App Store](https://apps.apple.com/us/app/teams-academy/id6670338266) (Client Project)
+- A university student ordering system tailored to academic and personal needs.
+- Features include order tracking, notifications, and a user-friendly interface.
+
+### **Statio**
+**Platform:** [Google Play](https://play.google.com/store/apps/details?id=com.statio.words)
+- Designed for 3rd Secondary School students in Egypt to master English vocabulary through interactive quizzes.
+- Features include Google sign-in, progress tracking, and multiple question styles.
+
+### **Tobal App**
+**Platform:** Private Deployment (Client Project)
+- A dental clinic app developed for a Saudi client, featuring appointment scheduling, patient management, and online payments.
+- Built with Flutter and integrated with secure payment gateways.
+
+### **Habit Tracker**
+**Platform:** [GitHub](https://github.com/Abdullahkhidr/habit-tracker)
+- A productivity app enabling users to build and maintain positive habits.
+- Includes custom habit creation, reminders, and mood tracking via a calendar interface.
+
+### **Sales Manager**
+**Platform:** [GitHub](https://github.com/Abdullahkhidr/sales-manager)
+- Simplifies business operations with inventory management and user-friendly interfaces.
+
+### **Countdown**
+**Platform:** [Google Play](https://play.google.com/store/apps/details?id=com.abdullah.coundown)
+- Tracks multiple birthdays and generates digital birthday cards with real-time countdowns.
+
+---
+
+## **PROFESSIONAL EXPERIENCE**
+
+### **Freelance Mobile App Developer**
+**Duration:** Ongoing
+- Developed and deployed various applications, including:
+  - **Tobal App:** A dental clinic app for a Saudi client, featuring appointment scheduling and online payments.
+  - **Teams Academy App:** A university student ordering system tailored to academic and personal needs.
+
+### **Student Mentor**
+**Organization:** ICPC Assiut University Community
+**Duration:** Oct 2023 – Present
+- Mentored peers in preparing for programming contests, focusing on algorithm design and problem-solving techniques.
+
+---
+
+## **EDUCATION**
+
+### **Asyut National University**
+**Degree:** Bachelor’s in Computer & Information Sciences
+**Duration:** Oct 2022 – Jun 2026
+
+### **DEPI Scholarship Trainee**
+**Organization:** Ministry of Communications & Information Technology (MCIT), Egypt
+**Duration:** Apr 2024 – Dec 2024
+- Completed hands-on training in advanced IT with a focus on **Flutter** and **Dart**.
+- Coursework includes Object-Oriented Programming (OOP), data structures, algorithms, and software project management.
+
+---
+
+## **CERTIFICATIONS**
+
+- **Flutter & Dart Development Course** – Udemy (Jul 2022)
+- **Deep Dive into Clean Architecture in Flutter** – Udemy (Aug 2024)
+- **Digital Egypt Pioneers Program (Mobile App Developer & Team Leader)** – MCIT, Egypt
+- **Egyptian Collegiate Programming Contest (ECPC)** – Finalist
