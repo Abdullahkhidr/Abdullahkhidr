@@ -1,16 +1,9 @@
 # **Abdullah Khidr**
+**Software Engineer · Mobile Developer · Flutter Developer**
 
-**Email:** [abdullahkhidr.info@gmail.com](mailto:abdullahkhidr.info@gmail.com)
-
-**Phone:** +20 112 550 3253
-
-**Address:** Assiut, Egypt
-
-**GitHub:** [github.com/Abdullahkhidr](https://github.com/Abdullahkhidr)
-
-**LinkedIn:** [linkedin.com/in/abdullahkhidr](https://www.linkedin.com/in/abdullahkhidr)
-
-**Portfolio:** [abdullahkhidr.web.app](https://abdullahkhidr.web.app/)
+Assiut, Egypt  
+[LinkedIn](https://www.linkedin.com/in/abdullahkhidr) • [GitHub](https://github.com/Abdullahkhidr) • [Portfolio](https://abdullahkhidr.web.app/)  
+**Email:** abdullahkhidr52@gmail.com | **Phone:** +20 112 550 3253
 
 ---
 
